@@ -72,8 +72,8 @@ I believe quality is not just about finding bugs, but about:
 
 ## 📫 Contact
 
-- LinkedIn: *add your link here*
-- Email: *add your email here*
+- LinkedIn: https://www.linkedin.com/in/gabriel-demetrio-8a11b1379/
+- Email: gabrieldmatei410@gmail.com
 
 ---
 
