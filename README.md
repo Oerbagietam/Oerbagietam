@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Matei
 
-I'm a **QA Analyst (Pleno)** with **1+ year of professional experience** focused on software quality, test automation and reliable delivery.
+I'm a **QA Analyst** with **1+ year of professional experience** focused on software quality, test automation and reliable delivery.
 
 I work daily with automated and manual testing, collaborating closely with developers and product teams to ensure stable, secure and well-documented applications.
 
