@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel Matei
+# 👋 Hi, I'm Gabriel Demetrio
 
 I'm a **QA Analyst** with **1+ year of professional experience** focused on software quality, test automation and reliable delivery.
 
