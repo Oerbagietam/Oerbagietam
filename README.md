@@ -4,7 +4,7 @@ I'm a **QA Analyst** with **1+ year of professional experience** focused on soft
 
 I work daily with automated and manual testing, collaborating closely with developers and product teams to ensure stable, secure and well-documented applications.
 
-Due to confidentiality and NDA restrictions, most of my professional code cannot be shared publicly.  
+Due to confidentiality, most of my professional code cannot be shared publicly.  
 This profile is used to showcase **study projects, testing examples, documentation templates and QA best practices**.
 
 ---
